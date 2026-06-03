@@ -1,0 +1,6 @@
+{
+  "name": "Ukraine Support",
+  "description": "Professional landing page for migration and adaptation support in Ukraine, featuring multi-language translation (including support for RTL languages like Arabic and Urdu) and interactive packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
